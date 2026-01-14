@@ -2,7 +2,7 @@
 This is my MJC COMPSCI codebase
 // CSCI 271 - GitHub Upload Practice
 // Name: Alejandro Sanchez
-// Section: CSI271
+// Section: CSI 271
 
 #include <iostream>
 using namespace std;
