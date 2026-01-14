@@ -1,13 +1,8 @@
 # COMPSCI-271-CODING-REPOSITORY
 This is my MJC COMPSCI codebase
-// CSCI 271 - GitHub Upload Practice
-// Name: Alejandro Sanchez
-// Section: CSI 271
+# My First GitHub Repository
+This is my very first repository on GitHub!
+**Author:** [Alejandro Sanchez]
+**Date Created:** Jan 12, 2026
+**Purpose:** Practicing GitHub basics, including creating a repository and a README file.
 
-#include <iostream>
-using namespace std;
-
-int main() {
-	cout << "Hello from GitHub! My first commit works." << endl;
-	return 0;
-}
